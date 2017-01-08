@@ -1,4 +1,4 @@
 # barbershop
 Demo site barbershop
 
-Hellos
+Hello
