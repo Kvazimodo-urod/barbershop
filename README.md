@@ -1,4 +1,4 @@
 # barbershop
 Demo site barbershop
 
-Привет адаптивный Барбершоп
+Мяу адаптивный барбершоп
